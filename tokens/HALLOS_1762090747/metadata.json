@@ -1,0 +1,39 @@
+{
+  "name": "HALLONAME",
+  "symbol": "HALLOS",
+  "description": "HALLOWEEN HALLOWEENHALLOWEENHALLOWEENHALLOWEENHALLOWEENHALLOWEEN",
+  "image": "https://raw.githubusercontent.com/companyukns/solana/main/tokens/HALLOS_1762090747/logo.png",
+  "external_url": "https://website.com",
+  "attributes": [
+    {
+      "trait_type": "tag",
+      "value": "test"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/companyukns/solana/main/tokens/HALLOS_1762090747/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "fungible",
+    "creators": [
+      {
+        "address": "2s3mY1Fk9kMywAzo8SWqQweVZgcnnXCikoSL54B89wjr",
+        "verified": true,
+        "share": 100,
+        "name": "CREATORNAME",
+        "website": "https://creatorwebsite.com"
+      }
+    ],
+    "social": {
+      "website": "https://website.com",
+      "twitter": "https://twitter.com",
+      "telegram": "https://t.me/telegram"
+    },
+    "tags": [
+      "test"
+    ]
+  }
+}
